@@ -1,0 +1,22 @@
+body{
+  background-color: #bef4f7;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.App {
+  text-align: center;
+}
+
+.form {
+  background-color: #bef4f7;
+  height: 100%;
+  overflow: scroll;
+}
+
+.table {
+  background-color: #bef4f7;
+  height: 100%;
+}
+
+
